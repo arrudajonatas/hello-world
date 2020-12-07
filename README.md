@@ -1,7 +1,7 @@
 # hello-world
 Anotações repositório
 
-Alterações realizadas na cópia.
+Alterações realizada no main.
 Linha 1
 Linha 2
 Linha 3
